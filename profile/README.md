@@ -1,4 +1,4 @@
-<div style="display:flex;"><h3><img src="https://raw.githubusercontent.com/fivemland/fl_nametag/main/assets/logo.png" style="width:60px"> FiveM Land</h3></div>
+<div style="display:flex;align-items:center; gap:5px"><h3 ><img src="https://raw.githubusercontent.com/fivemland/fl_nametag/main/assets/logo.png" style="width:60px"> </h3> <div style="font-size:30px;padding-top:5px;">FiveM Land</div></div>
 <p style="text-align:left">
 Small hungarian development community on the FiveM client</div>
 </p>
